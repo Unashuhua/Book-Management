@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    #jsbc connect setting
+    username: root
+    password: 'lsh211623'
+    url: jdbc:mysql://127.0.0.1:3306/demo?characterEncoding=UTF-8&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
